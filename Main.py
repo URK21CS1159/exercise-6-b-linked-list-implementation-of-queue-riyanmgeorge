@@ -16,7 +16,7 @@ class Queue:
     
 
   def status(self) -> None:
-    # Write your code here
+   
 
 
 # Do not change the following code
