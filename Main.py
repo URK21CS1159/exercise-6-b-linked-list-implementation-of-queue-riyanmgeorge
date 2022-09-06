@@ -3,7 +3,6 @@ class Node:
     self.data = data
     self.next = None
 
-
 class Queue:
   def __init__(self):
     self.head = None
@@ -11,13 +10,10 @@ class Queue:
 
   def enqueue(self, data) -> None:
     
-
   def dequeue(self) -> None:
     
-
   def status(self) -> None:
    
-
 
 # Do not change the following code
 queue = Queue()
